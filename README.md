@@ -7,7 +7,7 @@ See the notebook in the repository for samples and code to reproduce.
 
 - Direct link to the notebook: [nbviewer](https://nbviewer.jupyter.org/github/r9y9/icassp2020-espnet-tts-merlin-baseline/blob/master/00-Bidirectional-LSTM%20based%20RNNs%20for%20speech%20synthesis%20%28en%29-%28LJSpeech%29.ipynb)
 
-Note: since the notebook size is large (~ 100 MB), it may take a while for rendering.
+Note: since the notebook size is large (~ 100 MB), it may take a while for rendering. It might be better to see the notebook locally.
 
 ## Acknowledgements
 
