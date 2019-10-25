@@ -7,4 +7,4 @@ See the notebook in the repository for samples and code to reproduce.
 
 ## Acknowledgements
 
-[Merlin](https://github.com/CSTR-Edinburgh/merlin) is used to generate phone-level aligmetns. See https://github.com/r9y9/merlin/releases/tag/icassp2020-espnet-tts for code.   
+[Merlin](https://github.com/CSTR-Edinburgh/merlin) is used to generate phone-level alignments. See https://github.com/r9y9/merlin/releases/tag/icassp2020-espnet-tts for code.
